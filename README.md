@@ -18,6 +18,3 @@ Performed Exploratory Data Analysis (EDA) on Netflix content data to uncover tre
 
 ## Dataset
 Netflix Titles Dataset
-
-## Author
-Your Name
